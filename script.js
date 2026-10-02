@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    
+
     // Fetch data from JSON
     fetch('data.json')
         .then(response => {
@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
         })
         .catch(error => {
             console.error('Error cargando el JSON:', error);
-            document.getElementById('timeline-container').innerHTML = 
+            document.getElementById('timeline-container').innerHTML =
                 `<div style="color: red; padding: 2rem; text-align: center; background: white; border: 4px solid black; border-radius: 12px;">
                     <h3>Error al cargar los datos</h3>
                     <p>Para cargar el archivo <b>data.json</b> correctamente, debes abrir este proyecto usando un servidor local.</p>
@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
             let itemsHtml = '';
             section.items.forEach((item, index) => {
                 const activeClass = '';
-                
+
                 const cleanText = item.text.replace(/<br><br><span class="interactive-hint">.*?<\/span>/gi, '');
                 const stepLabel = item.stepLabel || `Paso ${index + 1}`;
 
@@ -126,12 +126,12 @@ document.addEventListener('DOMContentLoaded', () => {
                     if (currentlyActive) {
                         isAnimating = true;
                         currentlyActive.classList.remove('active');
-                        
+
                         // Esperamos a que la animación de cierre termine (aprox 550ms) antes de abrir la nueva
                         setTimeout(() => {
                             item.classList.add('active');
                             isAnimating = false;
-                            
+
                             // Opcional: aseguramos que la nueva tarjeta quede a la vista
                             setTimeout(() => {
                                 item.scrollIntoView({ behavior: 'smooth', block: 'nearest' });

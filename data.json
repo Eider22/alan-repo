@@ -1,98 +1,101 @@
 {
   "sections": [
     {
-      "title": "1. Breve Biografía",
+      "title": "Orígenes de una Mente Brillante",
       "items": [
         {
-          "stepLabel": "Paso 1",
-          "image": "https://images.unsplash.com/photo-1519689680058-324335c77eba?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+          "stepLabel": "Inicios",
+          "image": "https://images.unsplash.com/photo-1480985041486-c65b20c01d1f?q=80&w=1176&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
           "alt": "Nacimiento",
-          "title": "1912 - Nacimiento",
-          "text": "Alan Mathison Turing nació el 23 de junio de 1912 en Londres. Desde muy pequeño mostró una curiosidad insaciable y una afinidad natural por los rompecabezas y las matemáticas."
+          "title": "1912 (0 años) - Nacimiento",
+          "text": "Nace el 23 de junio en Londres (Reino Unido). Curiosidad insaciable y afinidad por rompecabezas y matemáticas."
         },
         {
-          "stepLabel": "Paso 2",
-          "image": "https://images.unsplash.com/photo-1509228468518-180dd4864904?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
-          "alt": "Genialidad",
-          "title": "Genialidad Temprana",
-          "text": "A pesar de chocar con el sistema educativo tradicional, su brillantez para resolver problemas complejos de forma original se hizo evidente rápidamente en su juventud."
+          "stepLabel": "Juventud",
+          "image": "https://images.unsplash.com/photo-1660548902284-764f13525be2?q=80&w=1143&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "alt": "Juventud",
+          "title": "1926-1930 (14-18 años) - Sherborne y Primer Amor",
+          "text": "Amistad profunda con Christopher Morcom en el internado de Sherborne. Su repentina muerte marcó su vida y motivación."
         },
         {
-          "stepLabel": "Paso 3",
-          "image": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
-          "alt": "Juicio",
-          "title": "1952 - Condena Injusta",
-          "text": "En una época de gran intolerancia, fue procesado por su homosexualidad. Su trágica muerte ocurrió en 1954 a los 41 años. Recibió un indulto real póstumo décadas después (2013)."
-        },
-        {
-          "stepLabel": "Paso 4",
-          "image": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
-          "alt": "Juicio",
-          "title": "1952 - Condena Injusta",
-          "text": "En una época de gran intolerancia, fue procesado por su homosexualidad. Su trágica muerte ocurrió en 1954 a los 41 años. Recibió un indulto real póstumo décadas después (2013)."
+          "stepLabel": "Academia",
+          "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+          "alt": "Cambridge",
+          "title": "1931-1936 (19-24 años) - Universidad de Cambridge",
+          "text": "Estudia Matemáticas y se gradúa con honores. Publica un influyente artículo sobre el Teorema del Límite Central a los 22 años."
         }
       ]
     },
     {
-      "title": "2. Perfil Académico y Profesional",
+      "title": "Bases Teóricas",
       "items": [
         {
-          "stepLabel": "Paso 1",
-          "image": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
-          "alt": "Formación",
-          "title": "Formación Universitaria",
-          "text": "Estudió en el King's College de la Universidad de Cambridge, donde se graduó con honores en Matemáticas a los 22 años. Más tarde completó su doctorado en la Universidad de Princeton."
+          "stepLabel": "Doctorado",
+          "image": "https://images.unsplash.com/photo-1747835943915-482f092d4a0f?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "alt": "Princeton",
+          "title": "1936-1938 (24-26 años) - Doctorado en Princeton",
+          "text": "Doctorado en la Universidad de Princeton. Coincidencia directa con John von Neumann."
         },
         {
-          "stepLabel": "Paso 2",
-          "image": "https://images.unsplash.com/photo-1516110833967-0b5716ca1387?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
-          "alt": "Campos de trabajo",
-          "title": "Campos de Trabajo",
-          "text": "Sus áreas de investigación abarcaron la lógica matemática, criptoanálisis, ciencias de la computación teórica, inteligencia artificial y biología matemática."
-        },
-        {
-          "stepLabel": "Paso 3",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
-          "alt": "Máquina de Turing",
-          "title": "Obras Principales",
-          "text": "Destaca su artículo \"Sobre los números computables\" (1936), el liderazgo en Hut 8 en Bletchley Park, y el desarrollo de la Máquina de Turing."
-        }
-      ]
-    },
-    {
-      "title": "3. Aportes e Importancia",
-      "items": [
-        {
-          "stepLabel": "Paso 1",
-          "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
-          "alt": "Contribuciones",
-          "title": "Contribuciones Clave",
-          "text": "Formalizó los conceptos de \"algoritmo\" y \"computación\". Diseñó la máquina \"Bombe\" que descifraba los códigos diarios de Enigma utilizados por los nazis."
-        },
-        {
-          "stepLabel": "Paso 2",
+          "stepLabel": "Obra cumbre",
           "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
-          "alt": "Impacto",
-          "title": "Transformación e Impacto",
-          "text": "Su trabajo acortó la guerra salvando millones de vidas y estructuró las bases de la computación. Además, el Test de Turing cimentó la Inteligencia Artificial. <br><br><span class=\"interactive-hint\">Haz clic aquí para más info de la Bombe</span>",
-          "modal": "modal-bombe"
+          "alt": "On Computable Numbers with an application to the Entscheidungsproblem",
+          "title": "1936 (24 años) - \"On Computable Numbers with an application to the Entscheidungsproblem\"",
+          "text": "Publica su obra cumbre definiendo números computables finitos. Introduce la Máquina Automática (Turing) con cinta infinita y la Máquina Universal."
+        }
+      ]
+    },
+    {
+      "title": "Turing en la guerra",
+      "items": [
+        {
+          "stepLabel": "Criptografía",
+          "image": "https://images.unsplash.com/photo-1580741569354-08feedd159f9?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "alt": "Bletchley Park",
+          "title": "1939-1945 (27-33 años) - Bletchley Park y Enigma",
+          "text": "Trabaja en criptoanálisis con los Aliados (Reino Unido, URSS, EE. UU.). Diseña la máquina Bombe para descifrar Enigma."
+        }
+      ]
+    },
+    {
+      "title": "Hardware, IA y Legado Trágico",
+      "items": [
+        {
+          "stepLabel": "Computación",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+          "alt": "ACE y ENIAC",
+          "title": "1943-1948 (31-36 años) - El ACE y Enlace en EE. UU.",
+          "text": "Enlace en Washington (1943) colaborando con Von Neumann (ENIAC/EDVAC). Diseña el ordenador ACE en el NPL y plantea memorias autónomas."
         },
         {
-          "stepLabel": "Paso 3",
-          "image": "https://images.unsplash.com/photo-1518773553398-650c184e0bb3?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
-          "alt": "Relevancia",
-          "title": "Relevancia Actual",
-          "text": "Todo el software, la arquitectura de las computadoras actuales y las redes neuronales modernas son extensiones directas de las ideas que Turing propuso."
+          "stepLabel": "Inteligencia",
+          "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+          "alt": "Computing Machinery and Intelligence",
+          "title": "1950 (38 años) - \"Computing Machinery and Intelligence\"",
+          "text": "Publica el artículo donde propone el Juego de la Imitación (*Test de Turing*) para evaluar la inteligencia artificial."
+        },
+        {
+          "stepLabel": "(IN)Justicia",
+          "image": "https://images.unsplash.com/photo-1606323518213-ba20fcddec0d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "alt": "Condena y Legado",
+          "title": "1952-1954 (40-41 años) - Persecución y Legado Final",
+          "text": "Condenado en el Reino Unido por homosexualidad; castración química. Fallece en 1954. Disculpa oficial (2009) e indulto real (2013)."
         }
       ]
     }
   ],
   "sourcesSection": {
-    "title": "4. Fuentes de Información",
+    "title": "Fuentes de Información",
     "sources": [
-      "The Enigma Machine - History.com",
-      "Computing Machinery and Intelligence, A.M. Turing",
-      "Alan Turing: The Enigma - Andrew Hodges"
+      "📺 YouTube: \"How Enigma Was Cracked\" – https://www.youtube.com/watch?v=-YC71lE9O2k",
+      "💬 Quora: \"Was Alan Turing a fraud who never cracked the enigma code?\" – https://www.quora.com/Was-Alan-Turing-a-fraud-who-never-cracked-the-enigma-code",
+      "📄 Turing, A. M. (1936). \"On Computable Numbers, with an Application to the Entscheidungsproblem\" – https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf",
+      "📺 YouTube: \"Alan Turing. Breve explicación: On Computable Numbers...\" – https://www.youtube.com/watch?v=oEvEmOB8dAk",
+      "🌐 Wikipedia: \"John von Neumann\" – https://es.wikipedia.org/wiki/John_von_Neumann",
+      "🌐 Wikipedia: \"Automatic Computing Engine\" – https://es.wikipedia.org/wiki/Automatic_Computing_Engine",
+      "🏛 Fundación Aquae: \"Alan Turing, el padre de la inteligencia artificial\" – https://www.fundacionaquae.org/wiki/alan-turing-padre-la-inteligencia-artificial/",
+      "📄 Turing, A. M. (1950). \"¿Puede pensar una máquina?\" (UAM) – https://xamanek.izt.uam.mx/map/cursos/Turing-Pensar.pdf",
+      "🌐 Wikipedia: \"Alan Turing (Primeros años)\" – https://es.wikipedia.org/wiki/Alan_Turing#Primeros_a%C3%B1os"
     ]
   }
 }
