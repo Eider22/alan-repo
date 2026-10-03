@@ -109,6 +109,36 @@ body {
     font-weight: 700;
 }
 
+/* Hero Portrait */
+.hero-portrait {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.portrait-img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center top;
+    border: 6px solid var(--card-border);
+    box-shadow:
+        0 0 0 4px var(--card-light),
+        8px 8px 0px rgba(0, 0, 0, 0.18);
+    display: block;
+    filter: grayscale(20%);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+@media (max-width: 600px) {
+    .portrait-img {
+        width: 150px;
+        height: 150px;
+    }
+}
+
 .scroll-indicator {
     margin-top: 3rem;
     display: flex;
